@@ -2,8 +2,6 @@
 
 *Jueun Kwon*
 
-[Video](https://github.com/user-attachments/assets/cbf57f8f-5a08-43ad-843e-cf5cdeb5f5ee)
-
 ## Overview
 
 DiffmpmEvo is a simulation framework that leverages a differentiable Material Point Method (MPM) to model soft robots. The system evolves the actuation parameters of composite soft robots using an evolutionary algorithm. It records videos (both before and after optimization), saves simulation frames, and logs candidate parameters—all to help analyze and improve robot locomotion.
@@ -49,3 +47,7 @@ python3 diffmpm_evo.py --gens 50 --pop 20
 ```
 
 This command runs the evolutionary optimization for 50 generations with a population size of 20. Outputs (videos, snapshots, parameter logs, and a loss curve plot) are automatically saved in a folder named after the trial number (set via TRIAL_NUM).
+
+## Example Trial
+
+[Video](https://github.com/user-attachments/assets/cbf57f8f-5a08-43ad-843e-cf5cdeb5f5ee)

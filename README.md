@@ -52,6 +52,12 @@ This command runs the evolutionary optimization for 50 generations with a popula
 
 Several trial results are available in the `example_trials` folder. 
 
-Below is a demonstration from Trial 12:
+## Video Summary
 
-[Video](https://github.com/user-attachments/assets/cbf57f8f-5a08-43ad-843e-cf5cdeb5f5ee)
+**Video Teaser:**
+
+[Video](https://github.com/user-attachments/assets/f62c72aa-2933-4ea8-bb76-998f3bd54240)
+
+**YouTube Video:**
+
+[![Watch the video](https://img.youtube.com/vi/9o2A7uqQjUI/maxresdefault.jpg)](https://youtu.be/9o2A7uqQjUI)
